@@ -8,7 +8,7 @@ live client application: https://boardjsweb.herokuapp.com/home
 </br>
 REST API  hosted environment: https://boardsjs.herokuapp.com/
 
-features used:
+Features used:
 </br>
 Redux</br>
 JWT Authentication</br>
